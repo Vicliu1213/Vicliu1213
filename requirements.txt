@@ -1,0 +1,4 @@
+# Python dependencies
+# Add project dependencies here
+
+pytest>=7.0.0
