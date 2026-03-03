@@ -1,0 +1,8 @@
+# Application Configuration
+
+app:
+  name: "Vicliu1213"
+  version: "1.0.0"
+  environment: "development"
+
+# Add additional configuration sections as needed
